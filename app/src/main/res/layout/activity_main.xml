@@ -14,16 +14,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         layout="@layout/content_main">
-
     </include>
 
     <include
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         layout="@layout/drawer_toolbar">
-
     </include>
-
 
 
     <com.google.android.material.navigation.NavigationView

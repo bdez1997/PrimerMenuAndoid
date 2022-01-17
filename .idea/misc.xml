@@ -3,14 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Usuario/Documents/PrimerMenu/app/src/main/res/layout/content_main.xml" value="0.1734375" />
-        <entry key="..\:/Users/Usuario/Documents/PrimerMenu/app/src/main/res/layout/drawer_header.xml" value="0.1734375" />
-        <entry key="..\:/Users/Usuario/Documents/PrimerMenu/app/src/main/res/layout/drawer_toolbar.xml" value="0.1734375" />
-        <entry key="..\:/Users/Usuario/Documents/PrimerMenu/app/src/main/res/layout/fragment_init.xml" value="0.1734375" />
-        <entry key="..\:/Users/Usuario/Documents/PrimerMenu/app/src/main/res/layout/fragment_opcion1.xml" value="0.1734375" />
-        <entry key="..\:/Users/Usuario/Documents/PrimerMenu/app/src/main/res/layout/fragment_opcion2.xml" value="0.1734375" />
-        <entry key="..\:/Users/Usuario/Documents/PrimerMenu/app/src/main/res/layout/fragment_opcion3.xml" value="0.1734375" />
-        <entry key="..\:/Users/Usuario/Documents/PrimerMenu/app/src/main/res/menu/drawer_menu.xml" value="0.1734375" />
+        <entry key="..\:/Users/Usuario/Documents/Git-PrimerMenu/PrimerMenuAndoid/app/src/main/res/layout/activity_main.xml" value="0.1734375" />
+        <entry key="..\:/Users/Usuario/Documents/Git-PrimerMenu/PrimerMenuAndoid/app/src/main/res/layout/drawer_header.xml" value="0.1734375" />
+        <entry key="..\:/Users/Usuario/Documents/Git-PrimerMenu/PrimerMenuAndoid/app/src/main/res/menu/drawer_menu.xml" value="0.1734375" />
         <entry key="..\:/Users/Yuu/AndroidStudioProjects/PrimerMenu/app/src/main/res/drawable/ic_fire.xml" value="0.11388888888888889" />
         <entry key="..\:/Users/Yuu/AndroidStudioProjects/PrimerMenu/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Yuu/AndroidStudioProjects/PrimerMenu/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
